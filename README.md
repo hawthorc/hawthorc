@@ -3,7 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>NES Emulator</b>
-  - [C++ NES Emulator](https://github.com/hawthorc/OSUcapstone)
+  - [C++ NES Emulator](https://github.com/hawthorc/OSUcapstone/README.md)
 
 <h2>Connect with me on LinkedIn! </h2>
 
